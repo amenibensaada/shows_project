@@ -1,7 +1,10 @@
 .App {
   text-align: center;
 }
-
+.root {
+  display: flex;
+  flex-wrap: wrap;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
